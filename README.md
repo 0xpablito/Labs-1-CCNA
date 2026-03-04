@@ -15,7 +15,8 @@ Ma méthode d'apprentissage repose sur une approche concrète : **identifier et 
 
 ## 1. Vue d'ensemble
 Déploiement d'une architecture réseau hiérarchique. L'objectif est de valider la mise en place d'un cœur de réseau redondant et d'une segmentation stricte du trafic.
-<img width="1622" height="699" alt="image" src="https://github.com/user-attachments/assets/2b52325c-de37-4860-94b2-6c4d41e8af40" />
+<img width="1565" height="709" alt="image" src="https://github.com/user-attachments/assets/fdd24f6d-166c-48aa-aea9-7b2858eb0cff" />
+
 
 
 
